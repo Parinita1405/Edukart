@@ -15,8 +15,8 @@
         <div class="col-md-4 stripe text-white text-center">  <!-- Start Contact Us 2nd Column-->
           <h4>iSchool</h4>
           <p>iSchool, 
-          Near Police Camp II, Bokaro, 
-          Jharkhand - 834005<br /> 
+          Chandigarh University, Mohali, 
+          Punjab - 834005<br /> 
           Phone: +00000000 <br />
           www.ischool.com </p>
         </div> <!-- End Contact Us 2nd Column-->
